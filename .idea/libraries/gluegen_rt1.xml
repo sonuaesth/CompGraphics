@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="gluegen-rt1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/gluegen-rt-android-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/gluegen-rt-android-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/gluegen-rt-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/gluegen-rt-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jogl.util.cdc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jogl-1.1.1-rc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jogl-all-noawt-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jogl-all-noawt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jogl-all-noawt-natives-windows-i586.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../lib/jinput-2.0.9-javadoc.jar.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

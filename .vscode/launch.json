@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run 3D Stacking Puzzle",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--enable-native-access=ALL-UNNAMED",
+            "classPaths": [
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/../lib/gluegen-rt.jar",
+                "${workspaceFolder}/../lib/gluegen-rt-natives-windows-amd64.jar",
+                "${workspaceFolder}/../lib/jogl-all.jar",
+                "${workspaceFolder}/../lib/jogl-all-natives-windows-amd64.jar"
+            ]
+        }
+    ]
+}
